@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/opentok/opentok-video-call-center.git"
+    "url": "https://github.com/onlywayisup/opentok-video-call-center.git"
   },
   "keywords": [
     "opentok",
