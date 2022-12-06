@@ -4,11 +4,11 @@
   "buildpacks": [],
   "env": {
     "OPENTOK_API_KEY": {
-      "description": "API key from OpenTok",
+      "description": "opentok-api-key-here",
       "required": true
     },
     "OPENTOK_API_SECRET": {
-      "description": "API secret from OpeTok",
+      "description": "opentok-api-secret-here",
       "required": true
     }
   },
